@@ -1,0 +1,53 @@
+{
+  "dna": "e61d38e8179ad6ac23829854e32ce32e45c48e1a",
+  "edition": 1,
+  "date": 1649743997294,
+
+  "name": "EFFF",
+  "symbol": "EFFF",
+  "description": "Celebratory Solflare NFT for the Solflare X launch",
+  "seller_fee_basis_points": 0,
+  "image": "https://www.arweave.net/abcd5678?ext=png",
+  "animation_url": "https://www.arweave.net/efgh1234?ext=mp4",
+  "external_url": "https://solflare.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eren"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Front Fold Ears"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Red Mask"
+    }
+  ],
+  "collection": {
+    "name": "Solflare X NFT",
+    "family": "Solflare"
+ },
+ "properties": {
+   "files": [
+     {
+       "uri": "https://www.arweave.net/abcd5678?ext=png",
+       "type": "image/png"
+     },
+     {
+       "uri": "https://watch.videodelivery.net/9876jkl",
+       "type": "unknown",
+       "cdn": true
+     },
+     {
+       "uri": "https://www.arweave.net/efgh1234?ext=mp4",
+       "type": "video/mp4"
+     }
+   ],
+   "category": "video"
+ }
+}
